@@ -1,1 +1,2 @@
 # margin-collapse
+Collapsing margins occur when two vertical margins of the same value touch each other. If one margin is greater than the other, that margin overrides the other, leaving one margin. Margin collapse only happens on block level elements.
